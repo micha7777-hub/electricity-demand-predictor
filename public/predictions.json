@@ -1,0 +1,1010 @@
+[
+  {
+    "time": "Dec 25, 00:00",
+    "actual": 24248,
+    "prediction": 24199,
+    "baseline": 25720
+  },
+  {
+    "time": "Dec 25, 01:00",
+    "actual": 25178,
+    "prediction": 24421,
+    "baseline": 26682
+  },
+  {
+    "time": "Dec 25, 02:00",
+    "actual": 25613,
+    "prediction": 26154,
+    "baseline": 27454
+  },
+  {
+    "time": "Dec 25, 03:00",
+    "actual": 25051,
+    "prediction": 27083,
+    "baseline": 26893
+  },
+  {
+    "time": "Dec 25, 04:00",
+    "actual": 24176,
+    "prediction": 25523,
+    "baseline": 26340
+  },
+  {
+    "time": "Dec 25, 05:00",
+    "actual": 23835,
+    "prediction": 24822,
+    "baseline": 25741
+  },
+  {
+    "time": "Dec 25, 06:00",
+    "actual": 23153,
+    "prediction": 24033,
+    "baseline": 25370
+  },
+  {
+    "time": "Dec 25, 07:00",
+    "actual": 22818,
+    "prediction": 23189,
+    "baseline": 24403
+  },
+  {
+    "time": "Dec 25, 08:00",
+    "actual": 22550,
+    "prediction": 22275,
+    "baseline": 23478
+  },
+  {
+    "time": "Dec 25, 09:00",
+    "actual": 21453,
+    "prediction": 21974,
+    "baseline": 23073
+  },
+  {
+    "time": "Dec 25, 10:00",
+    "actual": 21274,
+    "prediction": 21271,
+    "baseline": 22673
+  },
+  {
+    "time": "Dec 25, 11:00",
+    "actual": 21209,
+    "prediction": 20939,
+    "baseline": 22084
+  },
+  {
+    "time": "Dec 25, 12:00",
+    "actual": 20492,
+    "prediction": 20827,
+    "baseline": 21923
+  },
+  {
+    "time": "Dec 25, 13:00",
+    "actual": 20338,
+    "prediction": 20391,
+    "baseline": 21404
+  },
+  {
+    "time": "Dec 25, 14:00",
+    "actual": 20135,
+    "prediction": 20418,
+    "baseline": 21212
+  },
+  {
+    "time": "Dec 25, 15:00",
+    "actual": 20053,
+    "prediction": 20937,
+    "baseline": 21902
+  },
+  {
+    "time": "Dec 25, 16:00",
+    "actual": 20471,
+    "prediction": 20800,
+    "baseline": 22914
+  },
+  {
+    "time": "Dec 25, 17:00",
+    "actual": 22889,
+    "prediction": 21235,
+    "baseline": 23836
+  },
+  {
+    "time": "Dec 25, 18:00",
+    "actual": 23944,
+    "prediction": 24170,
+    "baseline": 24577
+  },
+  {
+    "time": "Dec 25, 19:00",
+    "actual": 24057,
+    "prediction": 24511,
+    "baseline": 25359
+  },
+  {
+    "time": "Dec 25, 20:00",
+    "actual": 22844,
+    "prediction": 23825,
+    "baseline": 25382
+  },
+  {
+    "time": "Dec 25, 21:00",
+    "actual": 22929,
+    "prediction": 22879,
+    "baseline": 25234
+  },
+  {
+    "time": "Dec 25, 22:00",
+    "actual": 22569,
+    "prediction": 22938,
+    "baseline": 24834
+  },
+  {
+    "time": "Dec 25, 23:00",
+    "actual": 22270,
+    "prediction": 22625,
+    "baseline": 24191
+  },
+  {
+    "time": "Dec 26, 00:00",
+    "actual": 21884,
+    "prediction": 22580,
+    "baseline": 24248
+  },
+  {
+    "time": "Dec 26, 01:00",
+    "actual": 22347,
+    "prediction": 22060,
+    "baseline": 25178
+  },
+  {
+    "time": "Dec 26, 02:00",
+    "actual": 23106,
+    "prediction": 23230,
+    "baseline": 25613
+  },
+  {
+    "time": "Dec 26, 03:00",
+    "actual": 22825,
+    "prediction": 24112,
+    "baseline": 25051
+  },
+  {
+    "time": "Dec 26, 04:00",
+    "actual": 22602,
+    "prediction": 23249,
+    "baseline": 24176
+  },
+  {
+    "time": "Dec 26, 05:00",
+    "actual": 22233,
+    "prediction": 23460,
+    "baseline": 23835
+  },
+  {
+    "time": "Dec 26, 06:00",
+    "actual": 22005,
+    "prediction": 23134,
+    "baseline": 23153
+  },
+  {
+    "time": "Dec 26, 07:00",
+    "actual": 21440,
+    "prediction": 22878,
+    "baseline": 22818
+  },
+  {
+    "time": "Dec 26, 08:00",
+    "actual": 20614,
+    "prediction": 21310,
+    "baseline": 22550
+  },
+  {
+    "time": "Dec 26, 09:00",
+    "actual": 20673,
+    "prediction": 20087,
+    "baseline": 21453
+  },
+  {
+    "time": "Dec 26, 10:00",
+    "actual": 20070,
+    "prediction": 20445,
+    "baseline": 21274
+  },
+  {
+    "time": "Dec 26, 11:00",
+    "actual": 19764,
+    "prediction": 19917,
+    "baseline": 21209
+  },
+  {
+    "time": "Dec 26, 12:00",
+    "actual": 19370,
+    "prediction": 19554,
+    "baseline": 20492
+  },
+  {
+    "time": "Dec 26, 13:00",
+    "actual": 19008,
+    "prediction": 19732,
+    "baseline": 20338
+  },
+  {
+    "time": "Dec 26, 14:00",
+    "actual": 19785,
+    "prediction": 19244,
+    "baseline": 20135
+  },
+  {
+    "time": "Dec 26, 15:00",
+    "actual": 20920,
+    "prediction": 20387,
+    "baseline": 20053
+  },
+  {
+    "time": "Dec 26, 16:00",
+    "actual": 21383,
+    "prediction": 21997,
+    "baseline": 20471
+  },
+  {
+    "time": "Dec 26, 17:00",
+    "actual": 23170,
+    "prediction": 22629,
+    "baseline": 22889
+  },
+  {
+    "time": "Dec 26, 18:00",
+    "actual": 23290,
+    "prediction": 24302,
+    "baseline": 23944
+  },
+  {
+    "time": "Dec 26, 19:00",
+    "actual": 23477,
+    "prediction": 23893,
+    "baseline": 24057
+  },
+  {
+    "time": "Dec 26, 20:00",
+    "actual": 23737,
+    "prediction": 23459,
+    "baseline": 22844
+  },
+  {
+    "time": "Dec 26, 21:00",
+    "actual": 23928,
+    "prediction": 23537,
+    "baseline": 22929
+  },
+  {
+    "time": "Dec 26, 22:00",
+    "actual": 24645,
+    "prediction": 23597,
+    "baseline": 22569
+  },
+  {
+    "time": "Dec 26, 23:00",
+    "actual": 24075,
+    "prediction": 24212,
+    "baseline": 22270
+  },
+  {
+    "time": "Dec 27, 00:00",
+    "actual": 23732,
+    "prediction": 23774,
+    "baseline": 21884
+  },
+  {
+    "time": "Dec 27, 01:00",
+    "actual": 24631,
+    "prediction": 23232,
+    "baseline": 22347
+  },
+  {
+    "time": "Dec 27, 02:00",
+    "actual": 25891,
+    "prediction": 24978,
+    "baseline": 23106
+  },
+  {
+    "time": "Dec 27, 03:00",
+    "actual": 25689,
+    "prediction": 26326,
+    "baseline": 22825
+  },
+  {
+    "time": "Dec 27, 04:00",
+    "actual": 25031,
+    "prediction": 25228,
+    "baseline": 22602
+  },
+  {
+    "time": "Dec 27, 05:00",
+    "actual": 24741,
+    "prediction": 24579,
+    "baseline": 22233
+  },
+  {
+    "time": "Dec 27, 06:00",
+    "actual": 24244,
+    "prediction": 24029,
+    "baseline": 22005
+  },
+  {
+    "time": "Dec 27, 07:00",
+    "actual": 23192,
+    "prediction": 23574,
+    "baseline": 21440
+  },
+  {
+    "time": "Dec 27, 08:00",
+    "actual": 22249,
+    "prediction": 22245,
+    "baseline": 20614
+  },
+  {
+    "time": "Dec 27, 09:00",
+    "actual": 21228,
+    "prediction": 21457,
+    "baseline": 20673
+  },
+  {
+    "time": "Dec 27, 10:00",
+    "actual": 20153,
+    "prediction": 20568,
+    "baseline": 20070
+  },
+  {
+    "time": "Dec 27, 11:00",
+    "actual": 19443,
+    "prediction": 19623,
+    "baseline": 19764
+  },
+  {
+    "time": "Dec 27, 12:00",
+    "actual": 19239,
+    "prediction": 19157,
+    "baseline": 19370
+  },
+  {
+    "time": "Dec 27, 13:00",
+    "actual": 19199,
+    "prediction": 19215,
+    "baseline": 19008
+  },
+  {
+    "time": "Dec 27, 14:00",
+    "actual": 19526,
+    "prediction": 19349,
+    "baseline": 19785
+  },
+  {
+    "time": "Dec 27, 15:00",
+    "actual": 20833,
+    "prediction": 20228,
+    "baseline": 20920
+  },
+  {
+    "time": "Dec 27, 16:00",
+    "actual": 21366,
+    "prediction": 21500,
+    "baseline": 21383
+  },
+  {
+    "time": "Dec 27, 17:00",
+    "actual": 22509,
+    "prediction": 22434,
+    "baseline": 23170
+  },
+  {
+    "time": "Dec 27, 18:00",
+    "actual": 23710,
+    "prediction": 23509,
+    "baseline": 23290
+  },
+  {
+    "time": "Dec 27, 19:00",
+    "actual": 25001,
+    "prediction": 24122,
+    "baseline": 23477
+  },
+  {
+    "time": "Dec 27, 20:00",
+    "actual": 25107,
+    "prediction": 24712,
+    "baseline": 23737
+  },
+  {
+    "time": "Dec 27, 21:00",
+    "actual": 24673,
+    "prediction": 24881,
+    "baseline": 23928
+  },
+  {
+    "time": "Dec 27, 22:00",
+    "actual": 24778,
+    "prediction": 24321,
+    "baseline": 24645
+  },
+  {
+    "time": "Dec 27, 23:00",
+    "actual": 24234,
+    "prediction": 24074,
+    "baseline": 24075
+  },
+  {
+    "time": "Dec 28, 00:00",
+    "actual": 22129,
+    "prediction": 23809,
+    "baseline": 23732
+  },
+  {
+    "time": "Dec 28, 01:00",
+    "actual": 22655,
+    "prediction": 22517,
+    "baseline": 24631
+  },
+  {
+    "time": "Dec 28, 02:00",
+    "actual": 24658,
+    "prediction": 24044,
+    "baseline": 25891
+  },
+  {
+    "time": "Dec 28, 03:00",
+    "actual": 24810,
+    "prediction": 25703,
+    "baseline": 25689
+  },
+  {
+    "time": "Dec 28, 04:00",
+    "actual": 24570,
+    "prediction": 24814,
+    "baseline": 25031
+  },
+  {
+    "time": "Dec 28, 05:00",
+    "actual": 24295,
+    "prediction": 24449,
+    "baseline": 24741
+  },
+  {
+    "time": "Dec 28, 06:00",
+    "actual": 23982,
+    "prediction": 23711,
+    "baseline": 24244
+  },
+  {
+    "time": "Dec 28, 07:00",
+    "actual": 23151,
+    "prediction": 23413,
+    "baseline": 23192
+  },
+  {
+    "time": "Dec 28, 08:00",
+    "actual": 22045,
+    "prediction": 22276,
+    "baseline": 22249
+  },
+  {
+    "time": "Dec 28, 09:00",
+    "actual": 21435,
+    "prediction": 21265,
+    "baseline": 21228
+  },
+  {
+    "time": "Dec 28, 10:00",
+    "actual": 20586,
+    "prediction": 20750,
+    "baseline": 20153
+  },
+  {
+    "time": "Dec 28, 11:00",
+    "actual": 20075,
+    "prediction": 19910,
+    "baseline": 19443
+  },
+  {
+    "time": "Dec 28, 12:00",
+    "actual": 19584,
+    "prediction": 19593,
+    "baseline": 19239
+  },
+  {
+    "time": "Dec 28, 13:00",
+    "actual": 19579,
+    "prediction": 19360,
+    "baseline": 19199
+  },
+  {
+    "time": "Dec 28, 14:00",
+    "actual": 19995,
+    "prediction": 19528,
+    "baseline": 19526
+  },
+  {
+    "time": "Dec 28, 15:00",
+    "actual": 20915,
+    "prediction": 20372,
+    "baseline": 20833
+  },
+  {
+    "time": "Dec 28, 16:00",
+    "actual": 21757,
+    "prediction": 21553,
+    "baseline": 21366
+  },
+  {
+    "time": "Dec 28, 17:00",
+    "actual": 22938,
+    "prediction": 22661,
+    "baseline": 22509
+  },
+  {
+    "time": "Dec 28, 18:00",
+    "actual": 24015,
+    "prediction": 24240,
+    "baseline": 23710
+  },
+  {
+    "time": "Dec 28, 19:00",
+    "actual": 24334,
+    "prediction": 24557,
+    "baseline": 25001
+  },
+  {
+    "time": "Dec 28, 20:00",
+    "actual": 24720,
+    "prediction": 24375,
+    "baseline": 25107
+  },
+  {
+    "time": "Dec 28, 21:00",
+    "actual": 24832,
+    "prediction": 24452,
+    "baseline": 24673
+  },
+  {
+    "time": "Dec 28, 22:00",
+    "actual": 24953,
+    "prediction": 24349,
+    "baseline": 24778
+  },
+  {
+    "time": "Dec 28, 23:00",
+    "actual": 24618,
+    "prediction": 24653,
+    "baseline": 24234
+  },
+  {
+    "time": "Dec 29, 00:00",
+    "actual": 22763,
+    "prediction": 24201,
+    "baseline": 22129
+  },
+  {
+    "time": "Dec 29, 01:00",
+    "actual": 23170,
+    "prediction": 22537,
+    "baseline": 22655
+  },
+  {
+    "time": "Dec 29, 02:00",
+    "actual": 25236,
+    "prediction": 24728,
+    "baseline": 24658
+  },
+  {
+    "time": "Dec 29, 03:00",
+    "actual": 25221,
+    "prediction": 26018,
+    "baseline": 24810
+  },
+  {
+    "time": "Dec 29, 04:00",
+    "actual": 24959,
+    "prediction": 25219,
+    "baseline": 24570
+  },
+  {
+    "time": "Dec 29, 05:00",
+    "actual": 24707,
+    "prediction": 24586,
+    "baseline": 24295
+  },
+  {
+    "time": "Dec 29, 06:00",
+    "actual": 24607,
+    "prediction": 24047,
+    "baseline": 23982
+  },
+  {
+    "time": "Dec 29, 07:00",
+    "actual": 23335,
+    "prediction": 24002,
+    "baseline": 23151
+  },
+  {
+    "time": "Dec 29, 08:00",
+    "actual": 22095,
+    "prediction": 22371,
+    "baseline": 22045
+  },
+  {
+    "time": "Dec 29, 09:00",
+    "actual": 21424,
+    "prediction": 21266,
+    "baseline": 21435
+  },
+  {
+    "time": "Dec 29, 10:00",
+    "actual": 20611,
+    "prediction": 20863,
+    "baseline": 20586
+  },
+  {
+    "time": "Dec 29, 11:00",
+    "actual": 20254,
+    "prediction": 20295,
+    "baseline": 20075
+  },
+  {
+    "time": "Dec 29, 12:00",
+    "actual": 20220,
+    "prediction": 19916,
+    "baseline": 19584
+  },
+  {
+    "time": "Dec 29, 13:00",
+    "actual": 20556,
+    "prediction": 20134,
+    "baseline": 19579
+  },
+  {
+    "time": "Dec 29, 14:00",
+    "actual": 21640,
+    "prediction": 20847,
+    "baseline": 19995
+  },
+  {
+    "time": "Dec 29, 15:00",
+    "actual": 23499,
+    "prediction": 22928,
+    "baseline": 20915
+  },
+  {
+    "time": "Dec 29, 16:00",
+    "actual": 24870,
+    "prediction": 25537,
+    "baseline": 21757
+  },
+  {
+    "time": "Dec 29, 17:00",
+    "actual": 25940,
+    "prediction": 26778,
+    "baseline": 22938
+  },
+  {
+    "time": "Dec 29, 18:00",
+    "actual": 26315,
+    "prediction": 27010,
+    "baseline": 24015
+  },
+  {
+    "time": "Dec 29, 19:00",
+    "actual": 26773,
+    "prediction": 26592,
+    "baseline": 24334
+  },
+  {
+    "time": "Dec 29, 20:00",
+    "actual": 26904,
+    "prediction": 26350,
+    "baseline": 24720
+  },
+  {
+    "time": "Dec 29, 21:00",
+    "actual": 26814,
+    "prediction": 26323,
+    "baseline": 24832
+  },
+  {
+    "time": "Dec 29, 22:00",
+    "actual": 26695,
+    "prediction": 26658,
+    "baseline": 24953
+  },
+  {
+    "time": "Dec 29, 23:00",
+    "actual": 26001,
+    "prediction": 26579,
+    "baseline": 24618
+  },
+  {
+    "time": "Dec 30, 00:00",
+    "actual": 23347,
+    "prediction": 25851,
+    "baseline": 22763
+  },
+  {
+    "time": "Dec 30, 01:00",
+    "actual": 24681,
+    "prediction": 23522,
+    "baseline": 23170
+  },
+  {
+    "time": "Dec 30, 02:00",
+    "actual": 26550,
+    "prediction": 25723,
+    "baseline": 25236
+  },
+  {
+    "time": "Dec 30, 03:00",
+    "actual": 26525,
+    "prediction": 27704,
+    "baseline": 25221
+  },
+  {
+    "time": "Dec 30, 04:00",
+    "actual": 26217,
+    "prediction": 26656,
+    "baseline": 24959
+  },
+  {
+    "time": "Dec 30, 05:00",
+    "actual": 25658,
+    "prediction": 26030,
+    "baseline": 24707
+  },
+  {
+    "time": "Dec 30, 06:00",
+    "actual": 25207,
+    "prediction": 25192,
+    "baseline": 24607
+  },
+  {
+    "time": "Dec 30, 07:00",
+    "actual": 24077,
+    "prediction": 24637,
+    "baseline": 23335
+  },
+  {
+    "time": "Dec 30, 08:00",
+    "actual": 22777,
+    "prediction": 22964,
+    "baseline": 22095
+  },
+  {
+    "time": "Dec 30, 09:00",
+    "actual": 22577,
+    "prediction": 21816,
+    "baseline": 21424
+  },
+  {
+    "time": "Dec 30, 10:00",
+    "actual": 21636,
+    "prediction": 22025,
+    "baseline": 20611
+  },
+  {
+    "time": "Dec 30, 11:00",
+    "actual": 21578,
+    "prediction": 21017,
+    "baseline": 20254
+  },
+  {
+    "time": "Dec 30, 12:00",
+    "actual": 21080,
+    "prediction": 21039,
+    "baseline": 20220
+  },
+  {
+    "time": "Dec 30, 13:00",
+    "actual": 20955,
+    "prediction": 20863,
+    "baseline": 20556
+  },
+  {
+    "time": "Dec 30, 14:00",
+    "actual": 22140,
+    "prediction": 21107,
+    "baseline": 21640
+  },
+  {
+    "time": "Dec 30, 15:00",
+    "actual": 23545,
+    "prediction": 23421,
+    "baseline": 23499
+  },
+  {
+    "time": "Dec 30, 16:00",
+    "actual": 24729,
+    "prediction": 25368,
+    "baseline": 24870
+  },
+  {
+    "time": "Dec 30, 17:00",
+    "actual": 25835,
+    "prediction": 26516,
+    "baseline": 25940
+  },
+  {
+    "time": "Dec 30, 18:00",
+    "actual": 26954,
+    "prediction": 26673,
+    "baseline": 26315
+  },
+  {
+    "time": "Dec 30, 19:00",
+    "actual": 27807,
+    "prediction": 26910,
+    "baseline": 26773
+  },
+  {
+    "time": "Dec 30, 20:00",
+    "actual": 27785,
+    "prediction": 27243,
+    "baseline": 26904
+  },
+  {
+    "time": "Dec 30, 21:00",
+    "actual": 26488,
+    "prediction": 27394,
+    "baseline": 26814
+  },
+  {
+    "time": "Dec 30, 22:00",
+    "actual": 25805,
+    "prediction": 26425,
+    "baseline": 26695
+  },
+  {
+    "time": "Dec 30, 23:00",
+    "actual": 25723,
+    "prediction": 25595,
+    "baseline": 26001
+  },
+  {
+    "time": "Dec 31, 00:00",
+    "actual": 25054,
+    "prediction": 25328,
+    "baseline": 23347
+  },
+  {
+    "time": "Dec 31, 01:00",
+    "actual": 25970,
+    "prediction": 24789,
+    "baseline": 24681
+  },
+  {
+    "time": "Dec 31, 02:00",
+    "actual": 27437,
+    "prediction": 26838,
+    "baseline": 26550
+  },
+  {
+    "time": "Dec 31, 03:00",
+    "actual": 26882,
+    "prediction": 27952,
+    "baseline": 26525
+  },
+  {
+    "time": "Dec 31, 04:00",
+    "actual": 26311,
+    "prediction": 26496,
+    "baseline": 26217
+  },
+  {
+    "time": "Dec 31, 05:00",
+    "actual": 25857,
+    "prediction": 25711,
+    "baseline": 25658
+  },
+  {
+    "time": "Dec 31, 06:00",
+    "actual": 25291,
+    "prediction": 25274,
+    "baseline": 25207
+  },
+  {
+    "time": "Dec 31, 07:00",
+    "actual": 24065,
+    "prediction": 24724,
+    "baseline": 24077
+  },
+  {
+    "time": "Dec 31, 08:00",
+    "actual": 22737,
+    "prediction": 22905,
+    "baseline": 22777
+  },
+  {
+    "time": "Dec 31, 09:00",
+    "actual": 22593,
+    "prediction": 21797,
+    "baseline": 22577
+  },
+  {
+    "time": "Dec 31, 10:00",
+    "actual": 22084,
+    "prediction": 22111,
+    "baseline": 21636
+  },
+  {
+    "time": "Dec 31, 11:00",
+    "actual": 21774,
+    "prediction": 21530,
+    "baseline": 21578
+  },
+  {
+    "time": "Dec 31, 12:00",
+    "actual": 22068,
+    "prediction": 21171,
+    "baseline": 21080
+  },
+  {
+    "time": "Dec 31, 13:00",
+    "actual": 21959,
+    "prediction": 21695,
+    "baseline": 20955
+  },
+  {
+    "time": "Dec 31, 14:00",
+    "actual": 21886,
+    "prediction": 22031,
+    "baseline": 22140
+  },
+  {
+    "time": "Dec 31, 15:00",
+    "actual": 22128,
+    "prediction": 22593,
+    "baseline": 23545
+  },
+  {
+    "time": "Dec 31, 16:00",
+    "actual": 23221,
+    "prediction": 23563,
+    "baseline": 24729
+  },
+  {
+    "time": "Dec 31, 17:00",
+    "actual": 24308,
+    "prediction": 24690,
+    "baseline": 25835
+  },
+  {
+    "time": "Dec 31, 18:00",
+    "actual": 25086,
+    "prediction": 25654,
+    "baseline": 26954
+  },
+  {
+    "time": "Dec 31, 19:00",
+    "actual": 25396,
+    "prediction": 25671,
+    "baseline": 27807
+  },
+  {
+    "time": "Dec 31, 20:00",
+    "actual": 25832,
+    "prediction": 25459,
+    "baseline": 27785
+  },
+  {
+    "time": "Dec 31, 21:00",
+    "actual": 25824,
+    "prediction": 25720,
+    "baseline": 26488
+  },
+  {
+    "time": "Dec 31, 22:00",
+    "actual": 25712,
+    "prediction": 25450,
+    "baseline": 25805
+  },
+  {
+    "time": "Dec 31, 23:00",
+    "actual": 25340,
+    "prediction": 25218,
+    "baseline": 25723
+  }
+]

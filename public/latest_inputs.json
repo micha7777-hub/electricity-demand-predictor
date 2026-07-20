@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-31T23:00:00+00:00",
+  "temperature_c": 15.1,
+  "humidity_percent": 92.0,
+  "wind_speed_kmh": 4.9,
+  "hour": 15,
+  "day_of_week": 2,
+  "month": 12,
+  "is_weekend": 0,
+  "demand_1_hour_ago": 25712,
+  "demand_24_hours_ago": 25723,
+  "demand_168_hours_ago": 24191
+}

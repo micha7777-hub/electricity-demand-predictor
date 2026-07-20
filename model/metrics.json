@@ -1,0 +1,35 @@
+{
+  "model_name": "Histogram Gradient Boosting Regressor",
+  "region": "California ISO",
+  "training_rows": 13900,
+  "testing_rows": 3476,
+  "training_start": "2024-01-08 00:00:00+00:00",
+  "training_end": "2025-08-09 03:00:00+00:00",
+  "testing_start": "2025-08-09 04:00:00+00:00",
+  "testing_end": "2025-12-31 23:00:00+00:00",
+  "features": [
+    "temperature_c",
+    "humidity_percent",
+    "wind_speed_kmh",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "demand_1_hour_ago",
+    "demand_24_hours_ago",
+    "demand_168_hours_ago"
+  ],
+  "baseline": {
+    "mae_mw": 1232.16,
+    "rmse_mw": 1699.69,
+    "r2": 0.8569,
+    "mape_percent": 4.53
+  },
+  "model": {
+    "mae_mw": 409.8,
+    "rmse_mw": 561.25,
+    "r2": 0.9844,
+    "mape_percent": 1.54
+  },
+  "mae_improvement_over_baseline_percent": 66.74
+}
